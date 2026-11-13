@@ -31,7 +31,7 @@ The model correctly identified 198 of 380 serious or fatal crashes (52.1%) but f
 ## Tableau Dashboard
 ![Road Traffic Accident Risk Analysis Dashboard](Road%20Traffic%20Accident%20Dataset%20of%20Addis%20Ababa%20City/tableau/tableau_dashboard.png)
 
-Recommendations
+## Recommendations
 Looking at the accident data analysis, the company should try to prioritize collecting more training data in these following situations:
 1. Bad lighting conditions: Crashes that happen in the darkness without street lighting have a higher percentage of serious or fatal injuries, which makes these conditions important to study more.
 2. Weather condiitons with limited data: Collecitng more information about weather conditions with lesser accidents that are recorded could help address the different gaps in the dataset.
