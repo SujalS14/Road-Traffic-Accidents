@@ -38,4 +38,4 @@ Looking at the accident data analysis, the company should try to prioritize coll
 3. High-severity junction types: Getting more data at junction types which are associated with higher percentages of serious or fatal crashes could help improve the model's predictions.
 
 ## Lessons Learned
-Throughout this project, I learned how to use Python, SQL, Tableau, and Excel to analyze accident data and identify patterns. One of the biggest challenges was building the machine learning model and understanding its predictions. If I continued working on this project, I would focus on improving the model's accuracy and its ability to identify serious or fatal crashes.
+Throughout this project, we learned how to use Python, SQL, Tableau, and Excel to analyze accident data and identify patterns. One of the biggest challenges was building the machine learning model and understanding its predictions. If we continued working on this project, we would focus on improving the model's accuracy and its ability to identify serious or fatal crashes.
